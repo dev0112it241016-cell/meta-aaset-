@@ -36,3 +36,6 @@ contract MetaAssetRegistry is ERC721, Ownable {
         return assets[_tokenId];
     }
 }
+// 
+End
+// 
